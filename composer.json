@@ -15,7 +15,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/madskullcreations/simplicity"
+            "url": "https://github.com/menaemg/mcvtestt"
         }
     ],
     "autoload": {
