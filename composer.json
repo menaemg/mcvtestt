@@ -1,0 +1,20 @@
+{
+    "name": "menaem/mvctest",
+    "authors": [
+        {
+            "name": "abdalmonaem",
+            "email": "abdalmonaem.gamal@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^8.0",
+        "dcblogdev/pdo-wrapper": "^2.0",
+        "rakit/validation": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "MVC\\": "app/"
+        }
+    }
+}
