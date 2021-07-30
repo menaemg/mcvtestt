@@ -12,6 +12,12 @@
         "dcblogdev/pdo-wrapper": "^2.0",
         "rakit/validation": "^1.4"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/madskullcreations/simplicity"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "MVC\\": "app/"
